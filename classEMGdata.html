@@ -88,16 +88,17 @@ Inheritance diagram for EMGdata:</div>
  <div class="center">
   <img src="classEMGdata.png" usemap="#EMGdata_map" alt=""/>
   <map id="EMGdata_map" name="EMGdata_map">
-<area href="classADS1115.html" title="The ADS1115 class for the ADS1115 with the ADS1115_device. This class contains the configuration of t..." alt="ADS1115" shape="rect" coords="0,0,69,24"/>
-<area href="classEMGFilter.html" title="The EMGFilter class This class is the header for the base class of the EMG filter...." alt="EMGFilter" shape="rect" coords="79,0,148,24"/>
+<area href="classADS1115.html" title="The ADS1115 class for the ADS1115 with the ADS1115_device. This class contains the configuration of t..." alt="ADS1115" shape="rect" coords="0,0,101,24"/>
+<area href="classEMGFilter.html" title="The EMGFilter class This class is the header for the base class of the EMG filter...." alt="EMGFilter" shape="rect" coords="111,0,212,24"/>
+<area href="classSensorCallback.html" alt="SensorCallback" shape="rect" coords="222,0,323,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a576c1f54051afd93500d15f45265f283"><td class="memItemLeft" align="right" valign="top"><a id="a576c1f54051afd93500d15f45265f283" name="a576c1f54051afd93500d15f45265f283"></a>
-std::vector&lt; double &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>getData</b> ()</td></tr>
-<tr class="separator:a576c1f54051afd93500d15f45265f283"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2a8aac817835724c3128cbb3780c0c1"><td class="memItemLeft" align="right" valign="top"><a id="aa2a8aac817835724c3128cbb3780c0c1" name="aa2a8aac817835724c3128cbb3780c0c1"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>setCallback</b> (<a class="el" href="classSensorCallback.html">SensorCallback</a> *cb)</td></tr>
+<tr class="separator:aa2a8aac817835724c3128cbb3780c0c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab940624209edf063cc4dfffecc8db976"><td class="memItemLeft" align="right" valign="top"><a id="ab940624209edf063cc4dfffecc8db976" name="ab940624209edf063cc4dfffecc8db976"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>_start</b> ()</td></tr>
 <tr class="memdesc:ab940624209edf063cc4dfffecc8db976"><td class="mdescLeft">&#160;</td><td class="mdescRight">Starts the web application thread and the data acquisition thread. <br /></td></tr>
@@ -134,6 +135,9 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>stop</b> ()</td></tr>
 <tr class="memitem:a868b88ad0eebacb5e79af6eab5edec5e inherit pub_methods_classEMGFilter"><td class="memItemLeft" align="right" valign="top"><a id="a868b88ad0eebacb5e79af6eab5edec5e" name="a868b88ad0eebacb5e79af6eab5edec5e"></a>
 virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>movementdetect</b> (<a class="el" href="emg__filter_8h.html#a94b1da2e055fff4d143aa6aa891f79a9">STATES</a> movement)=0</td></tr>
 <tr class="separator:a868b88ad0eebacb5e79af6eab5edec5e inherit pub_methods_classEMGFilter"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_classSensorCallback"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classSensorCallback')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classSensorCallback.html">SensorCallback</a></td></tr>
+<tr class="memitem:a59a157eafee40fe26bb5020e4fea739b inherit pub_methods_classSensorCallback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSensorCallback.html#a59a157eafee40fe26bb5020e4fea739b">hasSample</a> (float sample)</td></tr>
+<tr class="separator:a59a157eafee40fe26bb5020e4fea739b inherit pub_methods_classSensorCallback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>

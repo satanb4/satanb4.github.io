@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['jsoncgiadccallback_0',['JSONCGIADCCallback',['../classJSONCGIADCCallback.html',1,'JSONCGIADCCallback'],['../classJSONCGIADCCallback.html#a9b02dfb7eadb7e9c8004f90bdc474e29',1,'JSONCGIADCCallback::JSONCGIADCCallback()']]]
+  ['hassample_0',['hasSample',['../classSENSORfastcgicallback.html#a61b0f39a3098e24d75711677db626699',1,'SENSORfastcgicallback']]]
 ];

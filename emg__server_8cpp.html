@@ -87,6 +87,9 @@ $(function() {
 <a href="#details">More...</a></p>
 <div class="textblock"><code>#include &lt;string.h&gt;</code><br />
 <code>#include &lt;unistd.h&gt;</code><br />
+<code>#include &lt;thread&gt;</code><br />
+<code>#include &lt;mutex&gt;</code><br />
+<code>#include &lt;atomic&gt;</code><br />
 <code>#include &quot;json_fastcgi_web_api.h&quot;</code><br />
 <code>#include &quot;EMGSensor.h&quot;</code><br />
 <code>#include &lt;jsoncpp/json/json.h&gt;</code><br />
@@ -94,10 +97,13 @@ $(function() {
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSENSORfastcgicallback.html">SENSORfastcgicallback</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the signal handler for the application.  <a href="classSENSORfastcgicallback.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classJSONCGIADCCallback.html">JSONCGIADCCallback</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSENSORPOSTCallback.html">SENSORPOSTCallback</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classServer.html">Server</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
@@ -107,7 +113,6 @@ Functions</h2></td></tr>
 <tr class="separator:a844160e16f1a3e514df9ce65683e17bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a20a45737018ec41ab19cb4f5164b26ac"><td class="memItemLeft" align="right" valign="top"><a id="a20a45737018ec41ab19cb4f5164b26ac" name="a20a45737018ec41ab19cb4f5164b26ac"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>setHUPHandler</b> ()</td></tr>
-<tr class="memdesc:a20a45737018ec41ab19cb4f5164b26ac"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the signal handler for the application. <br /></td></tr>
 <tr class="separator:a20a45737018ec41ab19cb4f5164b26ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>

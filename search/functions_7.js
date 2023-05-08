@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['loadweights_0',['loadWeights',['../classNeuralNetwork.html#a8ddfb26e03a7fdd5fabb3f18b911c9b4',1,'NeuralNetwork']]]
+  ['poststring_0',['postString',['../classSENSORPOSTCallback.html#a19b7c1dc8634d6722078b86e913dc37e',1,'SENSORPOSTCallback']]],
+  ['printweights_1',['printWeights',['../classNeuralNetwork.html#afa5658d66250c7cb13081d8ffd9589a1',1,'NeuralNetwork']]]
 ];

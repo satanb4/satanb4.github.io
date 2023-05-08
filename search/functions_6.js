@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['jsoncgiadccallback_0',['JSONCGIADCCallback',['../classJSONCGIADCCallback.html#a9b02dfb7eadb7e9c8004f90bdc474e29',1,'JSONCGIADCCallback']]]
+  ['neuralnetwork_0',['NeuralNetwork',['../classNeuralNetwork.html#aa289b31f453ff1a3605b18003ab828b4',1,'NeuralNetwork']]]
 ];

@@ -1,0 +1,13 @@
+{
+  "name": "satanb4.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:satanb4/satanb4.github.io.git",
+  "license": "MIT",
+  "dependencies": {
+    "@wkocjan/gatsby-theme-intro": "^2.0.1",
+    "gatsby": "^5.13.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

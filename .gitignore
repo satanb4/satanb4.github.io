@@ -1,0 +1,17 @@
+# Ignore nodejs files
+node_modules
+npm-debug.log
+.cache/
+
+# Ignore bower files
+bower_components
+
+# Ignore composer files
+vendor
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.min.js
+*.min.css

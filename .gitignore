@@ -15,3 +15,11 @@ vendor
 # Ignore compiled files
 *.min.js
 *.min.css
+
+# Ignore Jekyll files
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock

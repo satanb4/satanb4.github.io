@@ -7,7 +7,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/satanb4/satanb4.github.io?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/satanb4/satanb4.github.io?style=for-the-badge)  
 
-![GitHub forks](https://img.shields.io/github/forks/satanb4/satanb4.github.io?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/satanb4/satanb4.github.io?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/satanb4/satanb4.github.io?style=for-the-badge)
 

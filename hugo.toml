@@ -33,7 +33,7 @@ style = "monokai"
   hidecolorschemetoggle = false
 
   #customCSS = ["layouts/css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
+  #customSCSS = ["scss/custom.scss"]
   #customJS = ["layouts/js/custom.js"]
 
 [taxonomies]

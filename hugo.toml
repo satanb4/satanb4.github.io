@@ -15,7 +15,7 @@ style = "monokai"
 
 [params]
   author = "Sayan B"
-  info = ["PhD Student - Quantum Nanophotonics", "Fullstack Systems Engineer", "University of Glasgow"]
+  info = ["PhD Student - Quantum Nanophotonics", "Fullstack Systems Engineer"]
   description = "Sayan B's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "/images/main.jpg"

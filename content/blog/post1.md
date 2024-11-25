@@ -4,7 +4,7 @@ date = 2024-11-25T17:52:33+01:00
 author = 'Sayan Bandyopadhyay'
 draft = false
 description = 'A short blog on the history and use of containers'
-tags = ['containerisation', 'blog', 'cloud]
+tags = ['containerisation', 'blog', 'cloud']
 categories = ['computing']
 +++
 

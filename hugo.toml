@@ -13,6 +13,14 @@ disqusShortname = "yourdiscussshortname"
 [markup.highlight]
 style = "monokai"
 
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
 [params]
   author = "Sayan B"
   info = ["PhD Student - Quantum Nanophotonics", "Fullstack Systems Engineer"]

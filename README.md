@@ -10,6 +10,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/satanb4/satanb4.github.io?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/satanb4/satanb4.github.io?style=for-the-badge)
 
+[![Deploy Hugo site to Pages](https://github.com/satanb4/satanb4.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/satanb4/satanb4.github.io/actions/workflows/hugo.yml)
+
 This is the repository for my portfolio website. I will be updating this repository with new blog posts and projects. Stay tuned!
 
 ## Build tech stack

@@ -8,7 +8,7 @@ tags = ['thoughts', 'opinion', 'ideas']
 categories = ['personal']
 +++
 
-# A past that was never mine
+# Apparitions of Anemoia
 
 I sat forlorn this one eve reminiscing on the things I have done in the past week. More a time for self-reflection than anything else. I have been reticent towards my peers and decidedly guarded regarding how I perceive my interactions with others. For more recently, being withdrawn has opened an avenue towards being more introspective. Anyway, I digress. That evening I was listening to music playing softly over my laptop (spotify) with a cup of coffee in my hand. I stumbled upon a feeling that I quite haven't been able to describle before nor being able to experience completely. It was a sense of overwhelming sadness for a time and place to which I never belonged. 
 

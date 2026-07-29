@@ -1,9 +1,9 @@
 +++
-title = 'Anemoia'
+title = 'A past that was never mine'
 date = 2026-07-29T23:29:25+01:00
 author = 'Sayan Bandyopadhyay'
 draft = false
-description = 'A past that was never mine'
+description = 'Reading into Anemoia'
 tags = ['thoughts', 'opinion', 'ideas']
 categories = ['personal']
 +++

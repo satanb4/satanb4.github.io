@@ -2,7 +2,7 @@
 title = 'Anemoia'
 date = 2024-11-25T17:52:33+01:00
 author = 'Sayan Bandyopadhyay'
-draft = true
+draft = false
 description = 'A past that was never mine'
 tags = ['thoughts', 'opinion', 'ideas']
 categories = ['personal']

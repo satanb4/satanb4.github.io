@@ -1,6 +1,6 @@
 +++
 title = 'Anemoia'
-date = 2024-11-25T17:52:33+01:00
+date = 2026-07-29T23:29:25+01:00
 author = 'Sayan Bandyopadhyay'
 draft = false
 description = 'A past that was never mine'
